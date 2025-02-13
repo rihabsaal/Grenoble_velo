@@ -1,11 +1,6 @@
-pandas
-numpy
-seaborn
-streamlit
-streamlit_dynamic_filters
-plotly
-plotly.express
-plotly.subplot
-make_subplot
-mesures
-get_mesures
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.0
+seaborn==0.13.0
+plotly==5.18.0
+streamlit_dynamic_filters==1.2.0
