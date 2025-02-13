@@ -4,7 +4,6 @@ seaborn
 streamlit
 streamlit_dynamic_filters
 plotly.express
-plotly.graph_object
 plotly.subplot
 make_subplot
 mesures
