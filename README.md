@@ -1,2 +1,2 @@
 # Grenoble_velo
-une ligne de test  
+python -m streamlit run main.py  
