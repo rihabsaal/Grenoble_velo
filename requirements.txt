@@ -5,7 +5,6 @@ streamlit
 streamlit_dynamic_filters
 plotly
 plotly.express
-plotly.subplot
 make_subplot
 mesures
 get_mesures
