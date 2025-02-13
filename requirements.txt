@@ -8,3 +8,4 @@ plotly.subplot
 make_subplot
 mesures
 get_mesures
+numpy
