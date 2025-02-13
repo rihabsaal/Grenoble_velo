@@ -3,6 +3,8 @@ numpy
 seaborn
 streamlit
 streamlit_dynamic_filters
+plotly
+plotly.graph_objects
 plotly.express
 plotly.subplot
 make_subplot
