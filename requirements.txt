@@ -1,6 +1,8 @@
 pandas
+numpy
 seaborn
 streamlit
+streamlit_dynamic_filters
 matplotlib.pyplot
 plotly.express
 plotly.graph_object
@@ -8,6 +10,3 @@ plotly.subplot
 make_subplot
 mesures
 get_mesures
-numpy
-PIL 
-Images
